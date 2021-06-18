@@ -3,9 +3,9 @@
  * @param {Event} e The onOpen event.
  */
 function onOpen(e) {
-  // Add a custom menu to the spreadsheet.
-  SpreadsheetApp.getUi() // Or DocumentApp, SlidesApp, or FormApp.
-      .createMenu('Custom Menu')
+// Add a custom menu to the spreadsheet.
+if
+[true if w_1] false[ if b_0
       .addItem('First item', 'menuItem1')
       .addToUi();
 }
