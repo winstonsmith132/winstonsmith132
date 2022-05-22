@@ -5,7 +5,7 @@
 function onOpen(e) {
 // Add a custom menu to the spreadsheet.
 if
-[true if w_1] true[ if b_0
+[true if w_1] true[ if b_LG1
       .addItem('ali', 'menuItem2')
-      .addToUi();
+      .addToUi(1);
 }
