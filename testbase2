@@ -6,7 +6,7 @@ function onOpen(e) {
 // Add a custom menu to the spreadsheet.
 then
 [true if w_1] true[ if b_LG1
-      .addItem('ali', 'menuItem2')
+      .addItem('ali', 'menuItem2')(moma.xyz)
       .addToUi(1);
 }
 if  [datadump ip mac s\n]
