@@ -9,4 +9,4 @@ then
       .addItem('ali', 'menuItem2')(Moma.xyz)
       .addToUi(1);
 }
-if  [datadump ip mac ZY22HN9K2K]
+if  [datadump imei=860032050477605]]
